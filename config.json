@@ -1,0 +1,10 @@
+{
+  "RESIN_EMAIL": "resin.io email",
+  "RESIN_PASS": "resin.io password",
+  "RESIN_APP": "resin.io app name",
+  "TWILLIO_SID": "twilio sid",
+  "TWILLIO_AUTHTOKEN": "twilio authtoken",
+  "FROM": "441******",
+  "TO": "447******",
+  "INTERVAL": "3000"
+}

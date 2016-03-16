@@ -1,0 +1,16 @@
+{
+  "name": "sdk-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "resin-sdk": "^5.2.0",
+    "twilio": "^2.9.0"
+  }
+}
